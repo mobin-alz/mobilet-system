@@ -1,0 +1,7 @@
+@font-face {
+  font-family: VAZIR;
+  src: url("../fonts/yekan-bakh/YekanBakhFaNum-Light.woff2");
+}
+*{
+  font-family: VAZIR;
+}
