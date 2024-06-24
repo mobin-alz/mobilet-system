@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/footer.jsp=UTF-8
+encoding//src/main/webapp/header.jsp=UTF-8
+encoding//src/main/webapp/pages/index.jsp=UTF-8
+encoding//src/main/webapp/pages/login.jsp=UTF-8
+encoding//src/main/webapp/pages/register.jsp=UTF-8
+encoding//src/main/webapp/pages/user/profile-p.jsp=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
